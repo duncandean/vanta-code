@@ -1,0 +1,21 @@
+{
+    "name": "vanta-code",
+    "displayName": "Vanta Code",
+    "description": "Deep. Dark. Slick.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vanta Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vanta Code-color-theme.json"
+            }
+        ]
+    }
+}
