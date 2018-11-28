@@ -2,10 +2,30 @@
 	"name": "Vanta Code",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#070707",
+		"editor.foreground": "#acacac",
+		"activityBarBadge.background": "#e2e2e2",
+		"activityBarBadge.foreground": "#3d3d3d",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#2c8d14",
+		"activityBar.inactiveForeground": "#bbbbbb",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#020202",
+		"tab.inactiveBackground": "#1a1a1a",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"editorGroupHeader.tabsBorder": "#363636",
+		"button.background": "#4e4e4e",
+
+		// Lists and trees
+		"list.activeSelectionBackground": "#032007",
+
+		"menu.background": "#000000",
+
+		// Status Bar
+		"statusBar.background": "#000000",
+
+		// Terminal
+		"terminal.background": "#000000"
 	},
 	"tokenColors": [
 		{
@@ -22,7 +42,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#cacaca"
 			}
 		},
 		{
